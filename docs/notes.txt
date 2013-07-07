@@ -1,0 +1,3 @@
+Create test for spells that affect different parameters than health
+
+Create a logic to affect and retrieve dexterity from Player
